@@ -158,6 +158,10 @@ while (counter != 0){
 - terminate alogorithm
 ---
 ## Example:
+***MAX RESOURCES:***
+- A = 10
+- B = 5
+- C = 7
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2016/01/safety.png">
 
 - initialize resources:
