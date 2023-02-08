@@ -8,7 +8,9 @@ int allocation[5] = {0, 0, 0, 0, 0};
 int maxres[5], running[5], safe = 0;
 int counter = 0, i, j, exec, resources, processes, k = 1;
 ```
--
+- ***resources*** indicate number of resources
+- ***processes*** indicate number of processes
+- 
 ---
 ```c
 scanf("%d", &processes);
@@ -21,7 +23,10 @@ counter++;
 
 scanf("%d", &resources);
 ```
--
+- user inputs	number	of	***processes***
+-	allocate	***running[]***	1D array as 1
+- update ***counter*** as number of resources
+-	user inputsnumber	of	***resources***
 ---
 ```c
 for (i = 0; i < resources; i++)
@@ -111,3 +116,6 @@ while (counter != 0){
 }
 ```
 -
+---
+## Example:
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2016/01/safety.png">
