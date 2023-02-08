@@ -169,3 +169,6 @@ while (counter != 0){
 
 - allocation of user values
 <img src="resources/bka11.png">
+
+- first iteration of loop
+<img src="resources/bka22.png">
