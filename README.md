@@ -166,3 +166,6 @@ while (counter != 0){
 
 - initialize resources:
 <img src="resources/bka.png">
+
+- allocation of user values
+<img src="resources/bka11.png">
